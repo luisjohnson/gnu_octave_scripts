@@ -1,0 +1,6 @@
+# Ignore vim swap files
+*.swp
+
+# Ignore Octave Workspace folder
+octave-workspace*
+
